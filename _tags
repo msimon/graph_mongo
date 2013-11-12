@@ -1,0 +1,2 @@
+<src/*.{ml,mli}>: thread, syntax(camlp4o), package(ocsigenserver,eliom.server,eliom.syntax.server,lwt.syntax,deriving,deriving.syntax,yojson,bson,bson.syntax,mongo,balsa.server)
+<src/*.cmx>: for-pack(Graph)
